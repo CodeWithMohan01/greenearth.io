@@ -1,0 +1,92 @@
+/* body{
+    background-color: rgb(27, 26, 26);
+} */
+.box {
+    background-color: rgb(237, 247, 255);
+    display: flex;
+    margin-left: 70px;
+    margin-right: 50px;
+    margin-bottom: 30px;
+    /* padding-left: 20px; */
+    margin-top: 20px;
+    border: 2px solid black;
+}
+
+#side_txt {
+    padding-right: 50px;
+    padding-left: 20px;
+    width: 800px;
+    float: left;
+}
+
+#side_carousel {
+    display: block;
+    width: 700px;
+    float: right;
+}
+
+#side_txt_2 {
+    width: 800px;
+    float: right;
+    padding-left: 50px;
+}
+
+#side_carousel_2 {
+    display: block;
+    width: 700px;
+    float: left;
+}
+
+#side_carousel_3 {
+    display: block;
+    width: 700px;
+    float: left;
+}
+
+#Services {
+    /* display: flex; */
+    width: 250px;
+    height: 400px;
+}
+
+#cards {
+    display: block;
+    margin-left: 100px;
+    margin-right: 70px;
+    margin-bottom: 30px;
+    padding-left: 90px;
+    margin-top: 20px;
+    /* border: 2px solid black; */
+
+}
+
+#crd1 {
+    background-color: rgb(255, 127, 127);
+}
+
+#crd2 {
+    background-color: rgb(127, 255, 163);
+}
+
+#crd3 {
+    background-color: rgb(127, 180, 255);
+}
+
+.card-body,a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    /* padding-bottom: 50px; */
+}
+
+#serv{
+    text-align: center;
+    margin: 5% 15% 5% 15%;
+    
+}
+
+.footer{
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+    padding: 2%;
+}
